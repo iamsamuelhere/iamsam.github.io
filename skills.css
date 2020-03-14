@@ -1,0 +1,57 @@
+.rounded-circle    /*profile pic*/
+{
+    width: 300px;
+    height: 300px;
+}
+
+.context             /*context about me*/
+{
+    font-size: 35px;
+}
+
+.footer                 /*footer*/
+{
+    background-color: black;
+    color:white;
+}
+
+#s1
+{
+    background-color: teal;
+    color:white;
+}
+
+.si
+{
+    width: 250px;
+    height:250px;
+    
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .dots {
+    height: 25px;
+    width: 25px;
+    background-color: teal;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .bg
+  {
+      background: #0F2027;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      
+      
+  }
+  .txt
+  {
+      color:white;
+      
+      font-family: 'Rajdhani', sans-serif;
+  }
